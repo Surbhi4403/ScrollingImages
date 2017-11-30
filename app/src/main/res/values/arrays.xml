@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="day_imgs">
+        <item>@drawable/day1</item>
+        <item>@drawable/day2</item>
+        <item>@drawable/day3</item>
+        <item>@drawable/day4</item>
+        <item>@drawable/day5</item>
+        <item>@drawable/day6</item>
+        <item>@drawable/day7</item>
+        <item>@drawable/day8</item>
+    </array>
+
+    <array name="night_imgs">
+        <item>@drawable/night1</item>
+        <item>@drawable/night2</item>
+        <item>@drawable/night3</item>
+        <item>@drawable/night4</item>
+        <item>@drawable/night5</item>
+        <item>@drawable/night6</item>
+        <item>@drawable/night7</item>
+        <item>@drawable/night8</item>
+    </array>
+</resources>
