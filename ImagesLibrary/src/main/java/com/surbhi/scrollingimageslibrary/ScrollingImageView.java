@@ -18,6 +18,9 @@ import java.util.List;
 
 import static java.lang.Math.abs;
 
+/**
+ * Created by Surbhi.
+ */
 public class ScrollingImageView extends View {
     public static ScrollingImageViewBitmapLoader BITMAP_LOADER = new ScrollingImageViewBitmapLoader() {
         @Override

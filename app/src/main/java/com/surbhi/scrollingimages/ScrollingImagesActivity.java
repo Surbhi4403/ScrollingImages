@@ -7,6 +7,9 @@ import android.widget.Button;
 
 import com.surbhi.scrollingimageslibrary.ScrollingImageView;
 
+/**
+ * Created by Surbhi.
+ */
 public class ScrollingImagesActivity extends AppCompatActivity implements View.OnClickListener {
     Button button_action;
     ScrollingImageView scrollingImageView;
