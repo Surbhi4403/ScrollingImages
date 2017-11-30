@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.surbhi.scrollingimages.ScrollingImagesActivity">
 
-    <com.surbhi.scrollingimages.ScrollingImageView
+    <com.surbhi.scrollingimageslibrary.ScrollingImageView
         android:id="@+id/scrollView"
         android:layout_width="match_parent"
+        android:layout_height="match_parent"
         app:speed="1.5dp"
-        app:src="@array/day_imgs"
-        android:layout_height="match_parent" />
+        app:src="@array/day_imgs" />
 
     <android.support.v7.widget.AppCompatButton
         android:id="@+id/button_action"

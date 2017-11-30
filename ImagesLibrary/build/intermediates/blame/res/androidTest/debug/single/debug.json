@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4_ic_launcher_round.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4_ic_launcher.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4_ic_launcher.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4_ic_launcher_round.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher_background.png.flat",
+        "source": "/home/osvinuser/Desktop/ScrollingImages/ImagesLibrary/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher_background.png"
+    }
+]

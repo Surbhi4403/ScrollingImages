@@ -1,0 +1,18 @@
+com.surbhi.scrollingimages.test
+int attr initialState 0x7f010000
+int attr randomness 0x7f010001
+int attr sceneLength 0x7f010002
+int attr speed 0x7f010003
+int attr src 0x7f010004
+int drawable ic_launcher_background 0x7f020001
+int drawable ic_launcher_foreground 0x7f020002
+int id started 0x7f030000
+int id stopped 0x7f030001
+int mipmap ic_launcher 0x7f040000
+int mipmap ic_launcher_round 0x7f040001
+int[] styleable ParallaxView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable ParallaxView_initialState 0
+int styleable ParallaxView_randomness 1
+int styleable ParallaxView_sceneLength 2
+int styleable ParallaxView_speed 3
+int styleable ParallaxView_src 4
