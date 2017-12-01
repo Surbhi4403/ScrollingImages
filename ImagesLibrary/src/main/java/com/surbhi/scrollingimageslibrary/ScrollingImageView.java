@@ -42,13 +42,13 @@ public class ScrollingImageView extends View {
     public ScrollingImageView(Context context, AttributeSet attrs) {
         super(context, attrs);
 
-        TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.ParallaxView, 0, 0);
+        TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.ImagesView, 0, 0);
         try {
-            speed = ta.getDimension(R.styleable.ParallaxView_speed, 10);
+            speed = ta.getDimension(R.styleable.ImagesView_speed, 10);
 
-            int type = isInEditMode() ? TypedValue.TYPE_STRING : ta.peekValue(R.styleable.ParallaxView_src).type;
+            int type = isInEditMode() ? TypedValue.TYPE_STRING : ta.peekValue(R.styleable.ImagesView_src).type;
             if (type == TypedValue.TYPE_REFERENCE) {
-                setImages(ta.getResourceId(R.styleable.ParallaxView_src, 0));
+                setImages(ta.getResourceId(R.styleable.ImagesView_src, 0));
             }
         } finally {
             ta.recycle();
