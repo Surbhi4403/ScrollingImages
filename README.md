@@ -3,7 +3,7 @@
 An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.
 
 ## Demo
-![video](Video/video.mp4)
+![video](Video/video.gif)
 
 ## Usage
 In your Android layout file add:
