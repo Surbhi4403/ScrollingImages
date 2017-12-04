@@ -27,6 +27,6 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 
 In your Java code, you can start and stop the animation like this:
 ```java
-ScrollingImageView scrollingBackground = (ScrollingImageView) findViewById(R.id.scrolling_background);
+ScrollingImageView scrollingBackground = (ScrollingImageView) findViewById(R.id.scrollView);
 scrollingBackground.stop();
 scrollingBackground.start();
